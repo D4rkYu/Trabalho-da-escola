@@ -8,7 +8,18 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    padding: 24px 0%;
 }
 .listacabaco{
     color: white;
+}
+.primeira-parte{
+    background-image: linear-gradient(#424e61,#4EBFE9);
+    height: 500px;
+    color: white;
+    padding: 100px;
+}
+.texto{
+    max-width: 100%;
+    width: 100%;
 }
