@@ -1,0 +1,26 @@
+
+.cabecalho{
+    background-color: black;
+    color: rgb(184, 55, 184);
+    display: flex;
+    padding:20px, 10px;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0%;
+}
+.partecima-img{
+    background-color: purple;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.partecima-text{
+    color: #F24578;
+    text-shadow: 1em black;
+}
+.paomuitobunito{
+    height: 300px;
+}
+.sardinhasmuitasbunitas{
+    height: 300px;
+}
