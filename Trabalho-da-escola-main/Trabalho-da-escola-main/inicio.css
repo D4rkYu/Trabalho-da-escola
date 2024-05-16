@@ -49,6 +49,7 @@ body{
 }
 
 .quem-somos{
+    font-size: 40px;
     padding: 24px 0;
 }
 
@@ -57,18 +58,40 @@ body{
 }
 
 .estudante-foto{
-    width: 30%;
+    width: 40%;
 }
 
 .icone{
     width: 30px;
     padding: 4px 8px;
 }
-
+.titulo-estudantes{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
 .estudante-div{
     text-align: center;
 }
 .escola-da-pesada{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
+}
+.roda-pe{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+
+}
+.alurastartdois{
+    width: 20%;
+    margin: 20px 0px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+    text-decoration:underline;
 }
